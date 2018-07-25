@@ -1,0 +1,37 @@
+<package>
+	<id>repo.pwn2Jay.fortpass</id>
+	<name>FortPass</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a Fortnite Jailbreak Detection Bypass</description>
+		<description>For Season 5.</description>
+		<description><![CDATA[
+		You cannot use NoSubstitute (Electra)<br/> 
+		or Liberty, it causes detection by Fortnite.
+		]]>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<changes>
+		<version>1.0.0</version>
+		<change>Initial Release</change>
+		<change>Does not support NoSubstitute (Electra) or Liberty Tweaks
+		and will still be detected as a Jailbroken Device.</change>
+		</changes>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://www.twitter.com/pwn2Jay</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+	</links>
+</package>
