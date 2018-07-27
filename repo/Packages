@@ -1,0 +1,13 @@
+Package: repo.pwn2Jay.fortpass
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pwn2Jay <peterson.s.jay@gmail.com>
+Depends: firmware (>11.2), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/repo.pwn2Jay.fortpass_1.0.0_iphoneos-arm.deb
+Size: 2580
+MD5sum: 6c10b21b4f8d8c70094e58f3eb244791
+Description: This is a Fortnite Jailbreak Detection Bypass for Season 5. Use of NoSubstitute (Electra) or Liberty will cause detection.
+Name: FortPass
+Author: pwn2Jay <peteron.s.jay@gmail.com>
+Depiction: https://pwn2Jay.github.io/depictions/?p=repo.pwn2Jay.fortpass
